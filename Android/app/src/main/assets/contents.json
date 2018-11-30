@@ -1,0 +1,270 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "1",
+      "name": "12B Stickers 1",
+      "publisher": "BPS",
+      "tray_image_file": "ico.webp",
+      "publisher_email":"hiiambhanu@gmail.com",
+      "publisher_website": "https://facebook.com/hiiambhanu",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "sti_1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sti_2.webp"
+        },
+        {
+          "image_file": "sti_3.webp"
+        },
+        {
+          "image_file": "sti_4.webp"
+        },
+        {
+          "image_file": "sti_5.webp"
+        },
+        {
+          "image_file": "sti_6.webp"
+        },
+        {
+          "image_file": "sti_7.webp"
+        },
+        {
+          "image_file": "sti_8.webp"
+        },
+        {
+          "image_file": "sti_9.webp"
+        },
+        {
+          "image_file": "sti_10.webp"
+        },
+        {
+          "image_file": "sti_11.webp"
+        },
+        {
+          "image_file": "sti_12.webp"
+        },
+        {
+          "image_file": "sti_13.webp"
+        },
+        {
+          "image_file": "sti_14.webp"
+        },
+        {
+          "image_file": "sti_15.webp"
+        },
+        {
+          "image_file": "sti_16.webp"
+        },
+        {
+          "image_file": "sti_17.webp"
+        },
+        {
+          "image_file": "sti_18.webp"
+        },
+        {
+          "image_file": "sti_19.webp"
+        },
+        {
+          "image_file": "sti_20.webp"
+        },
+        {
+          "image_file": "sti_21.webp"
+        },
+        {
+          "image_file": "sti_22.webp"
+        },
+        {
+          "image_file": "sti_23.webp"
+        },
+        {
+          "image_file": "sti_24.webp"
+        },
+        {
+          "image_file": "sti_25.webp"
+        },
+        {
+          "image_file": "sti_26.webp"
+        },
+        {
+          "image_file": "sti_27.webp"
+        },
+        {
+          "image_file": "sti_28.webp"
+        },
+        {
+          "image_file": "sti_29.webp"
+        },
+        {
+          "image_file": "sti_30.webp"
+        }
+
+      ]
+    },
+    {"identifier": "2",
+      "name": "12B Stickers 2",
+      "publisher": "BPS",
+      "tray_image_file": "ico.webp",
+      "publisher_email":"hiiambhanu@gmail.com",
+      "publisher_website": "https://facebook.com/hiiambhanu",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "stii_1.webp"
+        },
+        {
+          "image_file": "stii_2.webp"
+        },
+        {
+          "image_file": "stii_3.webp"
+        },
+        {
+          "image_file": "stii_4.webp"
+        },
+        {
+          "image_file": "stii_5.webp"
+        },
+        {
+          "image_file": "stii_6.webp"
+        },
+        {
+          "image_file": "stii_7.webp"
+        },
+        {
+          "image_file": "stii_8.webp"
+        },
+        {
+          "image_file": "stii_9.webp"
+        },
+        {
+          "image_file": "stii_10.webp"
+        },
+        {
+          "image_file": "stii_11.webp"
+        },
+        {
+          "image_file": "stii_12.webp"
+        },
+        {
+          "image_file": "stii_13.webp"
+        },
+        {
+          "image_file": "stii_14.webp"
+        },
+        {
+          "image_file": "stii_15.webp"
+        },
+        {
+          "image_file": "stii_16.webp"
+        },
+        {
+          "image_file": "stii_17.webp"
+        },
+        {
+          "image_file": "stii_18.webp"
+        },
+        {
+          "image_file": "stii_19.webp"
+        },
+        {
+          "image_file": "stii_20.webp"
+        },
+        {
+          "image_file": "stii_21.webp"
+        },
+        {
+          "image_file": "stii_22.webp"
+        },
+        {
+          "image_file": "stii_23.webp"
+        },
+        {
+          "image_file": "stii_24.webp"
+        },
+        {
+          "image_file": "stii_25.webp"
+        },
+        {
+          "image_file": "stii_26.webp"
+        },
+        {
+          "image_file": "stii_27.webp"
+        },{
+          "image_file": "stii_28.webp"
+        },{
+          "image_file": "stii_29.webp"
+        },{
+          "image_file": "stii_30.webp"
+        }
+
+      ]
+    },
+     {"identifier": "3",
+      "name": "12B Stickers 3",
+      "publisher": "BPS",
+      "tray_image_file": "ico.webp",
+      "publisher_email":"hiiambhanu@gmail.com",
+      "publisher_website": "https://facebook.com/hiiambhanu",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "st_1.webp"
+        },
+        {
+          "image_file": "st_2.webp"
+        },
+        {
+          "image_file": "st_3.webp"
+        },
+        {
+          "image_file": "st_4.webp"
+        },
+        {
+          "image_file": "st_5.webp"
+        },
+        {
+          "image_file": "st_6.webp"
+        },
+        {
+          "image_file": "st_7.webp"
+        },
+        {
+          "image_file": "st_8.webp"
+        },
+        {
+          "image_file": "st_9.webp"
+        },
+        {
+          "image_file": "st_10.webp"
+        },
+        {
+          "image_file": "st_11.webp"
+        },
+        {
+          "image_file": "st_12.webp"
+        },
+        {
+          "image_file": "st_13.webp"
+        },
+        {
+          "image_file": "st_14.webp"
+        },
+        {
+          "image_file": "st_15.webp"
+        }
+
+
+
+
+      ]
+    }
+
+  ]
+}
